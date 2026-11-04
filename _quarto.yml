@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+    - robots.txt
+    - assets/**
+
+website:
+  title: "Bruno Gegenhuber, PhD"
+  site-url: "https://brunogegenhuber.com"
+  description: "Bruno Gegenhuber, PhD, is a postdoctoral fellow in neurobiology at Harvard Medical School researching gene regulation, neural development, and plasticity."
+  favicon: assets/favicon.svg
+  open-graph: true
+  twitter-card: true
+  page-navigation: false
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    toc: false
+    title-block: false
+    anchor-sections: false
+    include-in-header: head.html
+
+execute:
+  freeze: auto
