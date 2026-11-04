@@ -1,7 +1,5 @@
 ---
 title: "Bruno Gegenhuber, PhD"
-title-block: false
-title-block-style: none
 description: "Neuroscientist at Harvard Medical School studying the gene regulatory mechanisms of neural development and plasticity."
 ---
 
@@ -41,7 +39,7 @@ description: "Neuroscientist at Harvard Medical School studying the gene regulat
       <div class="section-marker"><span class="section-number">01</span><span class="section-name">ABOUT</span></div>
       <div class="section-body">
         <h2 id="about-title">How does the brain take shape?</h2>
-        <p>I am a postdoctoral fellow in <a href="https://greenberg.hms.harvard.edu/people/" target="_blank" rel="noopener noreferrer">Michael Greenberg's laboratory</a> in the Department of Neurobiology at Harvard Medical School. <strong>I am also an instructor in the Advanced Techniques in Molecular Neuroscience Course at Cold Spring Harbor Laboratory</strong>.</p>
+        <p>I am a postdoctoral fellow in <a href="https://greenberg.hms.harvard.edu/people/" target="_blank" rel="noopener noreferrer">Michael Greenberg's laboratory</a> in the Department of Neurobiology at Harvard Medical School. I am also an instructor in the Advanced Techniques in Molecular Neuroscience Course at Cold Spring Harbor Laboratory.</p>
         <p>Before Harvard, I earned my PhD at Cold Spring Harbor Laboratory, where I discovered how steroid hormones regulate neuronal gene expression to generate sex differences in the brain.</p>
         <p>I am especially interested in leveraging fundamental biology to find new ways to re-open brain plasticity for treating disease.</p>
       </div>
@@ -54,7 +52,7 @@ description: "Neuroscientist at Harvard Medical School studying the gene regulat
         <div class="research-list">
           <article class="research-item"><div class="item-index">01 /</div><div><h3>Brain plasticity &amp; critical period closure</h3><p>What determines how and when the developing brain loses plasticity, and can we target these pathways to restore plasticity in adulthood? My recent work implicates astrocyte glucocorticoid receptor signaling in closing critical periods in development.</p></div><span class="item-glyph" aria-hidden="true">↗</span></article>
           <article class="research-item"><div class="item-index">02 /</div><div><h3>Glial endocrine sensing</h3><p>Astrocytes are the gateway to the brain. How do astrocytes sense and respond to the multitude of circulating factors in the blood to alter neuronal function and behavior?</p></div><span class="item-glyph" aria-hidden="true">↗</span></article>
-          <article class="research-item"><div class="item-index">03 /</div><div><h3>Molecular basis of trauma</h3><p>How can single-cell cell-type-resolved genomic approaches reveal the fundamental principles by which stress alters brain maturation, function, and behavior?</p></div><span class="item-glyph" aria-hidden="true">↗</span></article>
+          <article class="research-item"><div class="item-index">03 /</div><div><h3>Molecular basis of trauma</h3><p>How can single-cell and cell-type-resolved genomic approaches reveal the fundamental principles by which stress alters brain maturation, function, and behavior?</p></div><span class="item-glyph" aria-hidden="true">↗</span></article>
         </div>
       </div>
     </section>
