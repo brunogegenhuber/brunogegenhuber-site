@@ -1,8 +1,10 @@
 ---
 title: "Bruno Gegenhuber, PhD"
+title-block-style: none
 description: "Neuroscientist at Harvard Medical School studying the gene regulatory mechanisms of neural development and plasticity."
 ---
 
+```{=html}
 <div class="site-shell" id="top">
   <header class="topbar">
     <a class="wordmark" href="#top" aria-label="Bruno Gegenhuber — home">Bruno Gegenhuber</a>
@@ -83,3 +85,4 @@ description: "Neuroscientist at Harvard Medical School studying the gene regulat
 
   <footer class="site-footer"><span>© 2026 Bruno Gegenhuber</span><span>Neurobiology · Harvard Medical School</span><a href="#top">Back to top ↑</a></footer>
 </div>
+```
