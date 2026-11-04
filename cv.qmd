@@ -1,5 +1,5 @@
 ---
-title: false
+title: "Curriculum Vitae"
 title-block: false
 title-block-style: none
 description: "Bruno Gegenhuber, PhD — Curriculum Vitae, including research training, publications, honors, and academic appointments."
