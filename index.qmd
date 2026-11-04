@@ -1,5 +1,5 @@
 ---
-title: false
+title: "Bruno Gegenhuber, PhD"
 title-block: false
 title-block-style: none
 description: "Neuroscientist at Harvard Medical School studying the gene regulatory mechanisms of neural development and plasticity."
