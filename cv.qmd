@@ -1,0 +1,45 @@
+---
+title: false
+title-block: false
+title-block-style: none
+description: "Bruno Gegenhuber, PhD — Curriculum Vitae, including research training, publications, honors, and academic appointments."
+---
+
+```{=html}
+<div class="site-shell" id="top">
+  <header class="topbar">
+    <a class="wordmark" href="index.html" aria-label="Bruno Gegenhuber, PhD — home">Bruno Gegenhuber, PhD</a>
+    <nav class="nav-links" aria-label="Main navigation">
+      <a href="index.html#about">About</a>
+      <a href="index.html#research">Research</a>
+      <a href="index.html#publications">Publications</a>
+      <a class="nav-current" href="cv.html" aria-current="page">CV</a>
+      <a href="index.html#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main id="main-content" class="cv-page">
+    <section class="cv-hero" aria-labelledby="cv-title">
+      <div>
+        <p class="cv-eyebrow"><span class="status-dot" aria-hidden="true"></span> ACADEMIC BACKGROUND</p>
+        <h1 id="cv-title">Curriculum Vitae<span class="accent-dot">.</span></h1>
+        <p class="cv-intro">My academic training, research appointments, publications, fellowships, and professional activities.</p>
+        <div class="cv-actions">
+          <a class="cv-download" href="assets/GEGENHUBER_CV.pdf" download="Bruno_Gegenhuber_CV.pdf" type="application/pdf">Download CV <span aria-hidden="true">↓</span></a>
+          <a class="quiet-link" href="assets/GEGENHUBER_CV.pdf" target="_blank" rel="noopener noreferrer">Open PDF <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <div class="cv-document-mark" aria-hidden="true"><span>BG</span><small>CURRICULUM VITAE</small></div>
+    </section>
+
+    <section class="cv-document-section" aria-labelledby="cv-preview-heading">
+      <div class="cv-document-topline"><h2 id="cv-preview-heading">Read online</h2><span>3-page PDF</span></div>
+      <div class="cv-paper-surround">
+        <iframe class="cv-viewer" src="assets/GEGENHUBER_CV.pdf#toolbar=1" title="Bruno Gegenhuber curriculum vitae PDF" loading="lazy"></iframe>
+        <p class="cv-viewer-fallback">If the document does not appear in your browser, <a href="assets/GEGENHUBER_CV.pdf" target="_blank" rel="noopener noreferrer">open the PDF directly</a>.</p>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer"><span>© 2026 Bruno Gegenhuber</span><span>Neurobiology · Harvard Medical School</span><a href="index.html">Back to home ↑</a></footer>
+</div>
+```
