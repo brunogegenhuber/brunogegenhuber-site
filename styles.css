@@ -103,3 +103,16 @@ body a{color:inherit}
 .cv-viewer-fallback{margin:14px 3px 0!important;font-size:12px;color:var(--muted)}
 .cv-viewer-fallback a{text-decoration:underline;text-underline-offset:3px}
 @media(max-width:750px){.cv-hero{grid-template-columns:1fr;padding:62px 0 68px;gap:32px}.cv-document-mark{display:none}.cv-document-section{padding:44px 0 68px}.cv-paper-surround{padding:7px}.cv-viewer{min-height:470px;height:74vh}.nav-links .nav-current{padding-bottom:3px}}
+
+
+/* The page title remains in HTML metadata for SEO, but Quarto's automatically
+   generated duplicate visible title is hidden. The custom homepage/CV headings
+   and navigation wordmark stay visible. */
+#title-block-header,
+#quarto-title-block,
+.quarto-title-block,
+#quarto-content > h1.title,
+#quarto-document-content > h1.title,
+main.content > h1.title {
+  display: none !important;
+}
