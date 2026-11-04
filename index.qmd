@@ -1,5 +1,5 @@
 ---
-title: "Bruno Gegenhuber, PhD"
+title: ""
 description: "Neuroscientist at Harvard Medical School studying the gene regulatory mechanisms of neural development and plasticity."
 ---
 
